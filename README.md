@@ -1,6 +1,6 @@
 # Hessian-based toolbox for more reliable and interpretable machines learning physics
 
-[![DOI](https://zenodo.org/badge/DOI/?.svg)](https://doi.org/?)
+[![DOI](https://zenodo.org/badge/391143558.svg)](https://zenodo.org/badge/latestdoi/391143558)
 
 ## Hessian-based toolbox on the example of the CNN trained to recognize between the Luttinger liquid (LL) and the charge density wave I (CDW-I)
 The aim of this code is to give a possibility of applying a Hessian-based toolbox to your own ML model and data. We described this toolbox in detail in the paper ["Hessian-based toolbox for more reliable and interpretable machines learning physics"](https://arxiv.org/abs/?) by A. Dawid, P. Huembeli, M. Tomza, M. Lewenstein, and A. Dauphin. The code contains:
